@@ -7,7 +7,7 @@ Focus: **cloud-native systems**, **full-stack web**, and **mobile (iOS)**
 
 ## Featured projects
 
-### [Aussie EcoLens](https://github.com/DeveshAnarga/aussie-ecolens) — Multi-cloud serverless platform
+### [AWS + GCP Wildlife Platform](https://github.com/DeveshAnarga/aws-gcp-wildlife-platform) — Multi-cloud serverless
 **AWS + GCP** wildlife media platform with ML species detection.
 
 - **AWS:** Cognito, API Gateway, Lambda, S3, SNS
