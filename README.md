@@ -1,18 +1,27 @@
 # Hi, I'm Devesh Gurusinghe 👋
 
 **Software developer** · Monash University · Melbourne, Australia  
-Focus: **cloud-native systems**, **full-stack web**, and **mobile (iOS)**
+Focus: **cloud-native systems**, **ML on Kubernetes**, **full-stack web**, and **iOS**
 
 ---
 
 ## Featured projects
 
-### [AWS + GCP EcoLens AI](https://github.com/DeveshAnarga/aws-gcp-ecolens-ai) — Multi-cloud serverless AI
-**AWS + GCP** wildlife media platform with ML species detection.
+### [AWS + GCP EcoLens AI](https://github.com/DeveshAnarga/aws-gcp-ecolens-ai) — Multi-cloud serverless
+Wildlife media platform with ML species detection across **AWS + GCP**.
 
 - **AWS:** Cognito, API Gateway, Lambda, S3, SNS
 - **GCP:** Cloud Run, Firestore, Cloud Storage
 - **Stack:** React · Python · PyTorch · Docker
+
+---
+
+### [GCP K8s Marine Plastic AI](https://github.com/DeveshAnarga/gcp-k8s-marine-plastic-ai) — Kubernetes + computer vision
+Marine plastic pollution detection API on a **self-managed GCP Kubernetes cluster**.
+
+- **GCP:** Compute Engine, VPC, Terraform, Ansible
+- **K8s:** Deployments, probes, horizontal pod scaling, Locust benchmarks
+- **Stack:** FastAPI · YOLOv8m · Docker · Locust
 
 ---
 
@@ -30,12 +39,13 @@ Node.js / Express / MongoDB backend deployed to Google Cloud.
 
 | Area | Technologies |
 |------|-------------|
-| **Cloud** | AWS Lambda, S3, Cognito, SNS · GCP Cloud Run, Firestore, GCS |
-| **Backend** | Python, Node.js, Express, Flask, REST APIs |
+| **Cloud** | AWS Lambda, S3, Cognito, SNS · GCP Cloud Run, GCE, Firestore, GCS |
+| **Orchestration** | Kubernetes, Terraform, Ansible, Docker |
+| **Backend** | Python, FastAPI, Node.js, Express, Flask, REST APIs |
 | **Frontend** | React, HTML/CSS/JS |
 | **Mobile** | Swift, iOS, HealthKit, Firebase |
-| **ML / Data** | PyTorch, MongoDB, SQL |
-| **DevOps** | Docker, Git, GitHub |
+| **ML / CV** | PyTorch, YOLO, Ultralytics, OpenCV |
+| **DevOps** | Locust, Git, GitHub |
 
 ---
 
