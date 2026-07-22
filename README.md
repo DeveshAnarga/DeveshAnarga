@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Devesh Gurusinghe 👋
 
-<!--
-**DeveshAnarga/DeveshAnarga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software developer** · Monash University · Melbourne, Australia  
+Focus: **cloud-native systems**, **full-stack web**, and **mobile (iOS)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+### [Aussie EcoLens](https://github.com/DeveshAnarga/aussie-ecolens) — Multi-cloud serverless platform
+**AWS + GCP** wildlife media platform with ML species detection.
+
+- **AWS:** Cognito, API Gateway, Lambda, S3, SNS
+- **GCP:** Cloud Run, Firestore, Cloud Storage
+- **Stack:** React · Python · PyTorch · Docker
+
+---
+
+### [FitCoreApp-iOS](https://github.com/DeveshAnarga/FitCoreApp-IOS) — iOS fitness & nutrition app
+Swift app with Firebase, HealthKit, USDA FoodData API, and Swift Charts.
+
+---
+
+### [Event Management API](https://github.com/DeveshAnarga/UniDev-project1) — REST API on GCP
+Node.js / Express / MongoDB backend deployed to Google Cloud.
+
+---
+
+## Skills
+
+| Area | Technologies |
+|------|-------------|
+| **Cloud** | AWS Lambda, S3, Cognito, SNS · GCP Cloud Run, Firestore, GCS |
+| **Backend** | Python, Node.js, Express, Flask, REST APIs |
+| **Frontend** | React, HTML/CSS/JS |
+| **Mobile** | Swift, iOS, HealthKit, Firebase |
+| **ML / Data** | PyTorch, MongoDB, SQL |
+| **DevOps** | Docker, Git, GitHub |
+
+---
+
+## Contact
+
+- **GitHub:** [@DeveshAnarga](https://github.com/DeveshAnarga)
+- **Location:** Melbourne, Australia
+
+---
+
+*Open to software engineering and cloud developer roles.*
