@@ -1,7 +1,7 @@
-# Hi, I'm Devesh Gurusinghe 👋
+# Hi, I'm Devesh Gurusinghe
 
 **Software developer** · Monash University · Melbourne, Australia  
-Focus: **cloud-native systems**, **ML on Kubernetes**, **full-stack web**, and **iOS**
+Focus: **cloud-native systems**, **ML on Kubernetes**, **full-stack web**, **iOS**, and **security foundations**
 
 ---
 
@@ -14,24 +14,28 @@ Wildlife media platform with ML species detection across **AWS + GCP**.
 - **GCP:** Cloud Run, Firestore, Cloud Storage
 - **Stack:** React · Python · PyTorch · Docker
 
----
-
 ### [GCP K8s Marine Plastic AI](https://github.com/DeveshAnarga/gcp-k8s-marine-plastic-ai) — Kubernetes + computer vision
-Marine plastic pollution detection API on a **self-managed GCP Kubernetes cluster**.
+Marine plastic detection API on a **self-managed GCP Kubernetes cluster**.
 
 - **GCP:** Compute Engine, VPC, Terraform, Ansible
-- **K8s:** Deployments, probes, horizontal pod scaling, Locust benchmarks
-- **Stack:** FastAPI · YOLOv8m · Docker · Locust
+- **K8s:** Deployments, probes, horizontal scaling, Locust benchmarks
+- **Stack:** FastAPI · YOLOv8m · Docker
 
----
+### [FitCore iOS](https://github.com/DeveshAnarga/FitCoreApp-IOS) — Fitness & nutrition app
+Swift app with Firebase, USDA FoodData API, and Swift Charts.
 
-### [FitCoreApp-iOS](https://github.com/DeveshAnarga/FitCoreApp-IOS) — iOS fitness & nutrition app
-Swift app with Firebase, HealthKit, USDA FoodData API, and Swift Charts.
-
----
-
-### [Event Management API](https://github.com/DeveshAnarga/UniDev-project1) — REST API on GCP
+### [Event Management API](https://github.com/DeveshAnarga/UniDev-project1) — REST on GCP
 Node.js / Express / MongoDB backend deployed to Google Cloud.
+
+### [Security & Threat Modeling](https://github.com/DeveshAnarga/UniCyber-Project1) — Pentest + DFD
+VM penetration testing write-up and pharmaceutical-system threat model.
+
+### [Dental DB Queries](https://github.com/DeveshAnarga/UniDev-Project2) — SQL + MongoDB
+Relational algebra, SQL, and MongoDB for a clinic data model.
+
+### Also
+- [E-commerce homepage redesign](https://github.com/DeveshAnarga/UniDev-Project) — responsive HTML/CSS/JS
+- [Design portfolio](https://github.com/DeveshAnarga/Arava-project1) — Cord360 & Arava Exports marketing creatives
 
 ---
 
@@ -43,9 +47,11 @@ Node.js / Express / MongoDB backend deployed to Google Cloud.
 | **Orchestration** | Kubernetes, Terraform, Ansible, Docker |
 | **Backend** | Python, FastAPI, Node.js, Express, Flask, REST APIs |
 | **Frontend** | React, HTML/CSS/JS |
-| **Mobile** | Swift, iOS, HealthKit, Firebase |
+| **Mobile** | Swift, iOS, Firebase |
 | **ML / CV** | PyTorch, YOLO, Ultralytics, OpenCV |
-| **DevOps** | Locust, Git, GitHub |
+| **Data** | MongoDB, SQL, Firestore |
+| **Security** | Penetration testing notes, threat modeling (DFD) |
+| **Design** | Marketing posters, banners, brand creatives |
 
 ---
 
