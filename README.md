@@ -1,41 +1,39 @@
-# Hi, I'm Devesh Gurusinghe
+# Dave Gurusinghe
 
-**Software developer** · Monash University · Melbourne, Australia  
-Focus: **cloud-native systems**, **ML on Kubernetes**, **full-stack web**, **iOS**, and **security foundations**
+**Site Reliability Engineering · Distributed Systems · Go & Python · Cloud & Containers**  
+Melbourne, VIC · Master of Cyber Security, Monash University (completing Nov 2026) · Available 2027  
+
+[LinkedIn](https://linkedin.com/in/devguru88) · [GitHub](https://github.com/DeveshAnarga) · [Portfolio](https://www.codeofguru.tech/)
+
+Final-semester Master's student building and operating distributed systems — Go microservices, containerised infrastructure, and cloud-edge platforms. Currently a **DevOps & Security Engineer** on a production mobility platform (Sycorax), owning local infra, automation, and reliability. Distinction average · CompTIA Security+ · ISO/IEC 27001 Lead Auditor.
 
 ---
 
-## Featured projects
+## Experience highlights
 
-### [AWS + GCP EcoLens AI](https://github.com/DeveshAnarga/aws-gcp-ecolens-ai) — Multi-cloud serverless
-Wildlife media platform with ML species detection across **AWS + GCP**.
+**DevOps & Security Engineer** — Sycorax Mobility *(2026 – Present)*  
+Ride-hailing / delivery platform. Docker Compose local stack (PostgreSQL/PostGIS, Redis, Meilisearch, map tiles), Planetiler OSM tile pipeline, trilingual location search, Makefile automation, CI and Go microservices on a Cloudflare edge platform.
 
-- **AWS:** Cognito, API Gateway, Lambda, S3, SNS
-- **GCP:** Cloud Run, Firestore, Cloud Storage
-- **Stack:** React · Python · PyTorch · Docker
+**Software Developer Intern** — Atech Solutions, Hong Kong remote *(Sep 2025 – Feb 2026)*  
+REST APIs and backend services in an Agile, cross-timezone team; AWS integrated into production workflows.
 
-### [GCP K8s Marine Plastic AI](https://github.com/DeveshAnarga/gcp-k8s-marine-plastic-ai) — Kubernetes + computer vision
-Marine plastic detection API on a **self-managed GCP Kubernetes cluster**.
+**Software Developer & Cybersecurity Analyst** — The Conversation Curator *(Feb – Nov 2024)*  
+Industry placement: end-to-end client platform in a 4-person Agile team — PostgreSQL schema, backend services, security testing, and access control.
 
-- **GCP:** Compute Engine, VPC, Terraform, Ansible
-- **K8s:** Deployments, probes, horizontal scaling, Locust benchmarks
-- **Stack:** FastAPI · YOLOv8m · Docker
+---
 
-### [FitCore iOS](https://github.com/DeveshAnarga/FitCoreApp-IOS) — Fitness & nutrition app
-Swift app with Firebase, USDA FoodData API, and Swift Charts.
+## Projects (as on resume)
 
-### [Event Management API](https://github.com/DeveshAnarga/UniDev-project1) — REST on GCP
-Node.js / Express / MongoDB backend deployed to Google Cloud.
+### [Marine Plastic Detection Platform](https://github.com/DeveshAnarga/gcp-k8s-marine-plastic-ai)
+Distributed ML inference on a multi-node **Kubernetes** cluster — infrastructure automated with **Terraform** and **Ansible** (Python, Docker, GCP).
 
-### [Security & Threat Modeling](https://github.com/DeveshAnarga/UniCyber-Project1) — Pentest + DFD
-VM penetration testing write-up and pharmaceutical-system threat model.
+### [EcoLens Multi-Cloud Platform](https://github.com/DeveshAnarga/aws-gcp-ecolens-ai)
+Multi-cloud wildlife platform with IAM-based access control and event-driven serverless processing across **AWS + GCP** (Cognito, Lambda, S3, Cloud Run, Firestore, PyTorch).
 
-### [Dental DB Queries](https://github.com/DeveshAnarga/UniDev-Project2) — SQL + MongoDB
-Relational algebra, SQL, and MongoDB for a clinic data model.
+### [Security Assessment & Threat Modeling](https://github.com/DeveshAnarga/UniCyber-Project1)
+Penetration testing write-up (vulnerable VM) and threat modeling (DFD, trust boundaries, mitigations) — aligns with cyber + reliability mindset.
 
-### Also
-- [E-commerce homepage redesign](https://github.com/DeveshAnarga/UniDev-Project) — responsive HTML/CSS/JS
-- [Design portfolio](https://github.com/DeveshAnarga/Arava-project1) — Cord360 & Arava Exports marketing creatives
+> **Network Security Lab** (Python/Scapy, Wireshark, GNS3) — TCP/UDP scanners, scan detection, DNS behaviour including cache-poisoning paths in an isolated lab. *Code landing on GitHub soon.*
 
 ---
 
@@ -43,23 +41,32 @@ Relational algebra, SQL, and MongoDB for a clinic data model.
 
 | Area | Technologies |
 |------|-------------|
-| **Cloud** | AWS Lambda, S3, Cognito, SNS · GCP Cloud Run, GCE, Firestore, GCS |
-| **Orchestration** | Kubernetes, Terraform, Ansible, Docker |
-| **Backend** | Python, FastAPI, Node.js, Express, Flask, REST APIs |
-| **Frontend** | React, HTML/CSS/JS |
-| **Mobile** | Swift, iOS, Firebase |
-| **ML / CV** | PyTorch, YOLO, Ultralytics, OpenCV |
-| **Data** | MongoDB, SQL, Firestore |
-| **Security** | Penetration testing notes, threat modeling (DFD) |
-| **Design** | Marketing posters, banners, brand creatives |
+| **Languages** | Go, Python, Java, JavaScript/TypeScript, SQL, C/C++ (foundational) |
+| **Distributed systems** | Microservices, Connect-RPC/Protobuf, Kubernetes, containers |
+| **Cloud & edge** | AWS, GCP, Cloudflare Workers / Durable Objects / KV / R2 / Queues / Hyperdrive |
+| **Data** | PostgreSQL (+ PostGIS), MySQL, MongoDB, Redis, Meilisearch |
+| **Linux & networking** | Linux/UNIX, shell, OS internals · TCP/UDP, DNS, Scapy, Wireshark, GNS3 |
+| **Automation & reliability** | Docker Compose, GitHub Actions, Terraform, Ansible, health checks, Locust |
 
 ---
 
-## Contact
+## Education
 
-- **GitHub:** [@DeveshAnarga](https://github.com/DeveshAnarga)
-- **Location:** Melbourne, Australia
+- **Master of Cyber Security**, Monash University — completing November 2026 · Distinction (WAM 70+)
+- **Bachelor of IT**, Monash University — 2025
+- **Certs:** CompTIA Security+ · ISO/IEC 27001 Lead Auditor
 
 ---
 
-*Open to software engineering and cloud developer roles.*
+## Other public work
+
+Broader build experience (not the SRE primary pitch, but shows full-stack range):
+
+- [Event Management API](https://github.com/DeveshAnarga/UniDev-project1) — Node/Express/MongoDB on GCP
+- [Dental DB Queries](https://github.com/DeveshAnarga/UniDev-Project2) — SQL + MongoDB
+- [FitCore iOS](https://github.com/DeveshAnarga/FitCoreApp-IOS) — Swift fitness tracker
+- [Homepage redesign](https://github.com/DeveshAnarga/UniDev-Project) · [Design portfolio](https://github.com/DeveshAnarga/Arava-project1)
+
+---
+
+*Open to Site Reliability Engineering and cloud platform graduate roles.*
